@@ -1,2 +1,2 @@
 # MVP_Demo
-²©¿Í£ºhttp://blog.csdn.net/a361200614/article/details/58599214 µÄ¾ßÌå´úÂë,ÈçÓĞ´íÎó£¬»¶Ó­Ö¸Õı
+åšå®¢ï¼šhttp://blog.rokudol.cn/MVP+Retrofit+RxJava+ButterKnife%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8.html çš„å…·ä½“ä»£ç ,å¦‚æœ‰é”™è¯¯ï¼Œæ¬¢è¿æŒ‡æ­£
